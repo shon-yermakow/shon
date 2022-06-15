@@ -1,1 +1,2 @@
-alert
+"use strict";
+alert(`hello kids`)
