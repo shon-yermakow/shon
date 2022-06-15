@@ -8,7 +8,7 @@ h1{  text-align: center;
 .intro{
     color: blue;
     background-color: brown;
-    text-align: left;
+    padding: 45px;
 }
 img{
     float:right;
